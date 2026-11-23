@@ -1,4 +1,3 @@
-# resturant
 # 🍽️ Responsive Restaurant & Food Delivery Web App
 
 A responsive front-end web application built for a modern restaurant and food delivery service. Designed with clean layouts, smooth scrolling, and interactive UI elements to showcase menus, featured dishes, and mobile ordering.
